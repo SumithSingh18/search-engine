@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
+.heading{
+    font-family: serif;
+
+}
+.royal-logo{
+    width: 40px;
+    position: relative;
+    bottom: 20px;
+    right: 14px;
+}
